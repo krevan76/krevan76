@@ -8,8 +8,8 @@ Sono un developer che da qualche anno scripta su fivem e minecraft e da pocco de
 
 * 🌍  Sono italiao Italiano
 * 🖥️  Se vuoi donarmi qualcosa [Donazioni](http://paypal.me/krevan76)
-* ✉️  Per contatarmi [discord: krevan76](mailto:discord: krevan76)
-* 🚀  Sto attualmente lavorando [Minecraft server] attualmente non è online
+* ✉️  Per contatarmi discord: krevan76
+* 🚀  Sto attualmente lavorando in un server minecraft attualmente non è online
 * 🧠  Sto imparando web designer
 * 🤝  Colaborazioni in corso, xeniahosting.com/krevan
 * ⚡  Per qualsiasi cosa scrivetemi su discord
