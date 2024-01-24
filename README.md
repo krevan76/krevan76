@@ -14,6 +14,10 @@ Sono un developer che da qualche anno scripta su fivem e minecraft e da pocco de
 * 🤝  Colaborazioni in corso, xeniahosting.com/krevan
 * ⚡  Per qualsiasi cosa scrivetemi su discord
 
+<p href="https://discord.com/users/966672963032211480" align="center" width="1000px">
+  <img src="https://lanyard.cnrad.dev/api/966672963032211480?borderRadius=30px"/>
+</p>
+
 <a href="https://www.github.com/krevan76" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/krevan76?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/krevan76" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/krevan76?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
