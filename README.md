@@ -6,10 +6,10 @@ Developer di fivem, discord, minecraft e web page
 
 Sono un developer che da qualche anno scripta su fivem e minecraft e da pocco devopa su web page
 
-* 🌍  Sono italiao Italiano
+* 🌍  Sono italiao
 * 🖥️  Se vuoi donarmi qualcosa [Donazioni](http://paypal.me/krevan76)
 * ✉️  Per contatarmi discord: krevan76
-* 🚀  Sto attualmente lavorando in un server minecraft attualmente non è online
+* 🚀  Sto attualmente lavorando in un server FIVEM
 * 🧠  Sto imparando web designer
 * 🤝  Colaborazioni in corso, xeniahosting.com/krevan
 * ⚡  Per qualsiasi cosa scrivetemi su discord
