@@ -8,11 +8,11 @@ Sono un developer che da qualche anno scripta su fivem e minecraft e da pocco de
 
 * 🌍  Sono italiao
 * 🖥️  Se vuoi donarmi qualcosa [Donazioni](http://paypal.me/krevan76)
-* ✉️  Per contatarmi discord: krevan76
+* ✉️  Per contatarmi: krevan76@neondevs.com
 * 🚀  Sto attualmente lavorando in un server FIVEM
 * 🧠  Sto imparando web designer
 * 🤝  Colaborazioni in corso, xeniahosting.com/krevan
-* ⚡  Per qualsiasi cosa scrivetemi su discord
+* ⚡  Per qualsiasi cosa scrivetemi su discord krevan76
 
 <p href="https://discord.com/users/966672963032211480" align="center" width="1000px">
   <img src="https://lanyard.cnrad.dev/api/966672963032211480?borderRadius=30px"/>
