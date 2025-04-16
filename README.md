@@ -4,7 +4,7 @@ Ciao ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Developer di fivem, discord, minecraft e web page
 -------------------------------------------------
 
-Sono un developer che da qualche anno scripta su fivem e minecraft e da pocco devopa su web page
+Sono un developer che da qualche anno scripta su fivem e minecraft e da pocco developa su web page
 
 * 🌍  Sono italiao
 * 🖥️  Se vuoi donarmi qualcosa [Donazioni](http://paypal.me/krevan76)
