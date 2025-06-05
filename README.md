@@ -8,7 +8,7 @@ Sono un developer che da qualche anno scripta su FiveM e Minecraft e da pocco de
 
 * 🌍  Sono italiao
 * 🖥️  Se vuoi donarmi qualcosa [Donazioni](http://paypal.me/krevan76)
-* ✉️  Per contatarmi: [krevan76@neondevs.com](meilto:krevan76@neondevs.com)
+* ✉️  Per contatarmi: [krevan76@neondevs.com](https://meilto:krevan76@neondevs.com)
 * 🚀  Sto attualmente lavorando in un server FiveM
 * 🧠  Sto imparando web designer
 * 🤝  Colaborazioni in corso, xeniahosting.com/krevan
