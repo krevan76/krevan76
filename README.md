@@ -1,18 +1,18 @@
 Ciao ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)mi chiamo krevan76
 ================================================================================================================================
 
-Developer di fivem, discord, minecraft e web page
+Developer di FiveM, Discord, Minecraft e Webpage
 -------------------------------------------------
 
-Sono un developer che da qualche anno scripta su fivem e minecraft e da pocco developa su web page
+Sono un developer che da qualche anno scripta su FiveM e Minecraft e da pocco developa su Webpage
 
 * 🌍  Sono italiao
 * 🖥️  Se vuoi donarmi qualcosa [Donazioni](http://paypal.me/krevan76)
-* ✉️  Per contatarmi: krevan76@neondevs.com
-* 🚀  Sto attualmente lavorando in un server FIVEM
+* ✉️  Per contatarmi: [krevan76@neondevs.com](meilto:krevan76@neondevs.com)
+* 🚀  Sto attualmente lavorando in un server FiveM
 * 🧠  Sto imparando web designer
 * 🤝  Colaborazioni in corso, xeniahosting.com/krevan
-* ⚡  Per qualsiasi cosa scrivetemi su discord krevan76
+* ⚡  Per qualsiasi cosa scrivetemi su [Discord](https://neondevs.com/discord)
 
 <p href="https://discord.com/users/966672963032211480" align="center" width="1000px">
   <img src="https://lanyard.cnrad.dev/api/966672963032211480?borderRadius=30px"/>
