@@ -11,7 +11,7 @@ Sono un developer che da qualche anno scripta su FiveM e Minecraft e da pocco de
 * ✉️  Per contatarmi: [krevan76@neondevs.com](https://meilto:krevan76@neondevs.com)
 * 🚀  Sto attualmente lavorando in un server FiveM
 * 🧠  Sto imparando web designer
-* 🤝  Colaborazioni in corso, xeniahosting.com/krevan
+* 🤝  Colaborazioni in corso: [xeniahosting.com](https://neondevs.com/xenia)
 * ⚡  Per qualsiasi cosa scrivetemi su [Discord](https://neondevs.com/discord)
 
 <p href="https://discord.com/users/966672963032211480" align="center" width="1000px">
