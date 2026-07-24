@@ -47,6 +47,8 @@ PaperMC • Pterodactyl/Wings • Discord.js • Python (utilities)
 Nginx • UFW/iptables • Portainer • Uptime Kuma
 ```
 
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arch,astro,aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cloudflare,css,discord,bots,debian,discordjs,docker,dotnet,electron,figma,firebase,git,github,gitlab,githubactions,go,grafana,html,htmx,idea,java,js,jenkins,kali,kotlin,lua,md,mastodon,maven,mongodb,nextjs,nginx,nodejs,npm,obsidian,php,pnpm,prisma,powershell,prometheus,py,react,raspberrypi,redis,sqlite,supabase,tailwind,ts,unreal,unity,vercel,vite,vscode,vue,)](https://skillicons.dev)
+
 ---
 
 ## 📊 Stats
