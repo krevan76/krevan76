@@ -53,7 +53,7 @@ Nginx • UFW/iptables • Portainer • Uptime Kuma
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="GitHub stats" width="49%">
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=krevan76&custom_title=Krevan76%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=krevan76&custom_title=Krevan76%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)
 <img src="./profile/top-langs.svg" alt="Top languages" width="49%">
 
 </div>
